@@ -24,7 +24,7 @@ export const Home = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("home");
 
-  const hackathonDate = new Date("2026-01-15T09:00:00");
+  const hackathonDate = new Date("2026-01-29T09:00:00");
 
   useEffect(() => {
     const timer = setInterval(() => {

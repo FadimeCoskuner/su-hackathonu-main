@@ -41,7 +41,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ timeLeft }) => {
 
             <div>
               <p className="text-gray-600 font-medium mb-3 text-sm uppercase">
-                Etkinliğe kalan süre (15 Ocak 2026)
+                Etkinliğe kalan süre (29-30 Ocak 2026 2026)
               </p>
 
               <div className="grid grid-cols-4 gap-4 max-w-sm">
@@ -65,7 +65,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ timeLeft }) => {
             </div>
 
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSeBqewoT19-iKrf0ekUoYI2bqc121yG-AKm9G9CXe57wMyBQw/viewform"
+              href="https://forms.gle/CX7YQAvGXs5vVCoE7"
               target="_blank"
               rel="noopener noreferrer"
               className="
