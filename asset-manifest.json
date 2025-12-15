@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FadimeCoskuner/su-hackathonu-main/static/css/main.21c82477.css",
+    "main.js": "/FadimeCoskuner/su-hackathonu-main/static/js/main.70e1e368.js",
+    "static/js/453.6353e6c7.chunk.js": "/FadimeCoskuner/su-hackathonu-main/static/js/453.6353e6c7.chunk.js",
+    "static/media/görsel.png": "/FadimeCoskuner/su-hackathonu-main/static/media/görsel.890c08def9c3b866f537.png",
+    "static/media/pattern.png": "/FadimeCoskuner/su-hackathonu-main/static/media/pattern.e17a0d76b58788929ff8.png",
+    "index.html": "/FadimeCoskuner/su-hackathonu-main/index.html",
+    "main.21c82477.css.map": "/FadimeCoskuner/su-hackathonu-main/static/css/main.21c82477.css.map",
+    "main.70e1e368.js.map": "/FadimeCoskuner/su-hackathonu-main/static/js/main.70e1e368.js.map",
+    "453.6353e6c7.chunk.js.map": "/FadimeCoskuner/su-hackathonu-main/static/js/453.6353e6c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c82477.css",
+    "static/js/main.70e1e368.js"
+  ]
+}
