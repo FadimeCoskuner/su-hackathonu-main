@@ -2,7 +2,7 @@
   "name": "react-tsx-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/FadimeCoskuner/su-hackathonu-main",
+  "homepage": "https://fadimecoskuner.github.io/su-hackathonu-main",
   "dependencies": {
     "@ant-design/icons": "^6.1.0",
     "@testing-library/jest-dom": "^5.17.0",
