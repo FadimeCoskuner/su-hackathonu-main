@@ -1,0 +1,12 @@
+import { Kapsul } from "../assets/icons/Kapsul";
+
+export const Logo = ({ className }: { className: string }) => {
+  return (
+    <a rel="Ansayfaya dön" href="/">
+      <Kapsul
+        className={`${className} cursor-pointer`}
+        alt="Kapsül Teknoloji Platformu Logo"
+      />
+    </a>
+  );
+};
